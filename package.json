@@ -1,0 +1,13 @@
+{
+    "name": "com.google",
+    "displayName": "UniTask",
+    "author": { "name": "Google, Inc.", "url": "https://google.com/" },
+    "version": "7.2.0",
+    "unity": "2018.4",
+    "description": "Provides an efficient async/await integration to Unity.",
+    "keywords": [ "Firebase" ],
+    "license": "MIT",
+    "category": "Task",
+    "dependencies": {}
+}
+
